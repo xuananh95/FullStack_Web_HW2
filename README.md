@@ -7,7 +7,7 @@
 
 ## Demo
 
-<p>Click [here](https://www.delicate-ganache-fbd123.netlify.app) to see the demo version </p>
+Click [here](https://www.delicate-ganache-fbd123.netlify.app) to see the demo version
 
 ## Screenshots
 
